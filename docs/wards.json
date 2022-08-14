@@ -2,6 +2,8 @@
   {
     "zone": "Mist",
     "ward": 21,
+    "division": 2,
+    "hidePlots": [42, 48],
     "places": [
       {
         "x": 952,
@@ -94,7 +96,7 @@
       {
         "x": 804.5,
         "y": 738.5,
-        "plot": 0,
+        "plot": 42,
         "title": "",
         "description": "",
         "tags": []
@@ -102,7 +104,7 @@
       {
         "x": 715.5,
         "y": 791,
-        "plot": 0,
+        "plot": 43,
         "title": "",
         "description": "",
         "tags": []
@@ -110,7 +112,7 @@
       {
         "x": 810.5,
         "y": 853.5,
-        "plot": 0,
+        "plot": 44,
         "title": "",
         "description": "",
         "tags": []
@@ -118,7 +120,7 @@
       {
         "x": 940.5,
         "y": 1046,
-        "plot": 0,
+        "plot": 45,
         "title": "",
         "description": "",
         "tags": []
@@ -126,7 +128,7 @@
       {
         "x": 723.5,
         "y": 1009,
-        "plot": 0,
+        "plot": 46,
         "title": "",
         "description": "",
         "tags": []
@@ -134,7 +136,7 @@
       {
         "x": 681.5,
         "y": 935,
-        "plot": 0,
+        "plot": 47,
         "title": "",
         "description": "",
         "tags": []
@@ -142,7 +144,7 @@
       {
         "x": 609.5,
         "y": 815,
-        "plot": 0,
+        "plot": 48,
         "title": "",
         "description": "",
         "tags": []
@@ -150,7 +152,7 @@
       {
         "x": 544.5,
         "y": 720.5,
-        "plot": 0,
+        "plot": 49,
         "title": "",
         "description": "",
         "tags": []
@@ -158,7 +160,7 @@
       {
         "x": 508.5,
         "y": 790,
-        "plot": 0,
+        "plot": 50,
         "title": "",
         "description": "",
         "tags": []
@@ -166,7 +168,7 @@
       {
         "x": 457.5,
         "y": 858,
-        "plot": 0,
+        "plot": 51,
         "title": "",
         "description": "",
         "tags": []
@@ -174,7 +176,7 @@
       {
         "x": 441.5,
         "y": 957,
-        "plot": 0,
+        "plot": 52,
         "title": "",
         "description": "",
         "tags": []
@@ -182,7 +184,7 @@
       {
         "x": 534.5,
         "y": 941,
-        "plot": 0,
+        "plot": 53,
         "title": "",
         "description": "",
         "tags": []
@@ -190,7 +192,7 @@
       {
         "x": 635.5,
         "y": 1052,
-        "plot": 0,
+        "plot": 54,
         "title": "",
         "description": "",
         "tags": []
@@ -198,7 +200,7 @@
       {
         "x": 544.5,
         "y": 1087,
-        "plot": 0,
+        "plot": 55,
         "title": "",
         "description": "",
         "tags": []
@@ -206,7 +208,7 @@
       {
         "x": 448.5,
         "y": 1106,
-        "plot": 0,
+        "plot": 56,
         "title": "",
         "description": "",
         "tags": []
@@ -214,7 +216,7 @@
       {
         "x": 636.5,
         "y": 1165,
-        "plot": 0,
+        "plot": 57,
         "title": "",
         "description": "",
         "tags": []
@@ -222,7 +224,7 @@
       {
         "x": 547.5,
         "y": 1194,
-        "plot": 0,
+        "plot": 58,
         "title": "",
         "description": "",
         "tags": []
@@ -230,7 +232,7 @@
       {
         "x": 429.5,
         "y": 1197,
-        "plot": 0,
+        "plot": 59,
         "title": "",
         "description": "",
         "tags": []
@@ -238,7 +240,7 @@
       {
         "x": 304.5,
         "y": 1023,
-        "plot": 0,
+        "plot": 60,
         "title": "",
         "description": "",
         "tags": []
